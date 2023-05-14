@@ -9,7 +9,7 @@ web development, and back-end services. Anthony is also a collaborative and cust
 
 👨‍💻 All of my projects are available at https://github.com/tbaba007
 
-📝 I am an author of React.js Design patterns
+📝 I am an author of **[React.js Design patterns](https://www.amazon.in/dp/B0BT7R3TGP/ref=sr_1_1?crid=374CXUMB740CR&keywords=React.js+Design+Patterns+bpb&qid=1674815971&sprefix=react.js+design+patterns+bpb%2Caps%2C1311&sr=8-1)**
 
 💬 Ask me about Frontend and backend
 
