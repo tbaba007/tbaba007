@@ -13,6 +13,4 @@ web development, and back-end services. Anthony is also a collaborative and cust
 
 💬 Ask me about Frontend and backend
 
-📫 How to reach me okontaa@gmail.com@gmail.com
 
-📄 Know about my experiences https://www.linkedin.com/in/okonta/
